@@ -37,8 +37,8 @@
 </h2>
 
 ---
-Telegram :- @aass554411
- https://t.me/eshop_2
+Telegram :- @AlyanShah
+ https://t.me/AlyanShah
 ## 📋 Requirements
 
 1. Domain Name
@@ -254,8 +254,8 @@ systemctl status bot
 ---
 
 ## 📞 Support
-Telegram :- @aass554411
-https://t.me/eshop_2
+Telegram :- @AlyanShah
+https://t.me/AlyanShah
 
 ---
 
