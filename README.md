@@ -76,7 +76,7 @@ apt update -y && apt install -y wget curl && apt upgrade -y && apt dist-upgrade 
 
 **Installation:**
 ```bash
-wget https://raw.githubusercontent.com/MuntazerVpn/ehoop/main/installer -O installer && chmod +x installer && ./installer
+wget https://raw.githubusercontent.com/SyedAliShahPkk/autovps/main/installer -O installer && chmod +x installer && ./installer
 ```
 
 ---
@@ -90,7 +90,7 @@ apt-get update && apt-get install -y wget curl && apt-get upgrade -y && apt dist
 
 **Installation:**
 ```bash
-wget -q https://raw.githubusercontent.com/MuntazerVpn/ehoop/main/installer -O installer && chmod +x installer && ./installer
+wget -q https://raw.githubusercontent.com/SyedAliShahPkk/autovps/main/installer -O installer && chmod +x installer && ./installer
 ```
 
 ---
@@ -104,7 +104,7 @@ dnf install -y wget curl && dnf update -y && dnf upgrade -y && grub2-mkconfig -o
 
 **Installation:**
 ```bash
-wget -q https://raw.githubusercontent.com/MuntazerVpn/ehoop/main/installer -O installer && chmod +x installer && ./installer
+wget -q https://raw.githubusercontent.com/SyedAliShahPkk/autovps/main/installer -O installer && chmod +x installer && ./installer
 ```
 
 ---
@@ -118,7 +118,7 @@ dnf install -y wget curl && dnf update -y && dnf upgrade -y && grub2-mkconfig -o
 
 **Installation:**
 ```bash
-wget -q https://raw.githubusercontent.com/MuntazerVpn/ehoop/main/installer -O installer && chmod +x installer && ./installerr
+wget -q https://raw.githubusercontent.com/SyedAliShahPkk/autovps/installer -O installer && chmod +x installer && ./installerr
 ```
 ## [ SERVICES ]
 
